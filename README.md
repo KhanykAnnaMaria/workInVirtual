@@ -15,3 +15,13 @@
 ## Робота у віртуальному середовищі
 
 3 <img width="989" alt="Знімок екрана 2024-04-16 о 17 42 05" src="https://github.com/KhanykAnnaMaria/workInVirtual/assets/155006984/55f7f092-6c47-4dfd-941e-93405467eb0a">
+
+# Робота з Pipenv
+
+2 <img width="679" alt="Знімок екрана 2024-04-16 о 17 45 47" src="https://github.com/KhanykAnnaMaria/workInVirtual/assets/155006984/1e5c3b6c-779b-4bee-84d3-49bedf61786c">
+
+<img width="895" alt="Знімок екрана 2024-04-16 о 17 46 14" src="https://github.com/KhanykAnnaMaria/workInVirtual/assets/155006984/5c211a46-6f41-47e1-b1b6-dfc86be11cfc">
+
+4 <img width="995" alt="Знімок екрана 2024-04-16 о 17 46 57" src="https://github.com/KhanykAnnaMaria/workInVirtual/assets/155006984/6a096986-9b70-432d-a00f-a4eda67b043b">
+
+6 <img width="469" alt="Знімок екрана 2024-04-16 о 17 47 13" src="https://github.com/KhanykAnnaMaria/workInVirtual/assets/155006984/a5c0b05a-38d8-457a-9d7f-cee49cf93ee7">
