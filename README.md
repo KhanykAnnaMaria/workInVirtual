@@ -11,3 +11,7 @@
 7 <img width="988" alt="Знімок екрана 2024-04-16 о 17 41 30" src="https://github.com/KhanykAnnaMaria/workInVirtual/assets/155006984/2c5cdf30-3dca-45c9-9f8c-227a87dc78b1">
 
 <img width="995" alt="Знімок екрана 2024-04-16 о 17 41 45" src="https://github.com/KhanykAnnaMaria/workInVirtual/assets/155006984/b7210558-7aff-427a-8fab-5b841d459fe9">
+
+## Робота у віртуальному середовищі
+
+3 <img width="989" alt="Знімок екрана 2024-04-16 о 17 42 05" src="https://github.com/KhanykAnnaMaria/workInVirtual/assets/155006984/55f7f092-6c47-4dfd-941e-93405467eb0a">
